@@ -4,6 +4,7 @@
 #!author=ErdongChan收集整理
 #!homepage=https://erdongchan.cn
 #!icon=https://raw.githubusercontent.com/erdongchanyo/icon/main/EDC.png
+#!update by 2022-07-18
 
 [MITM]
 hostname = api.m.jd.com, passport.iqiyi.com, luka-graphql.ling.cn
